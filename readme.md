@@ -2,7 +2,13 @@
 
 ## Préalable 
 
-Télécharger et extraire l'archive du projet.
+Télécharger et extraire l'archive du projet
+
+ou cloner ce dépôt 
+
+```bash
+git clone git@github.com:ChaimaBdh/project-react-task.git
+```
 
 ## Installation des fichiers
 
